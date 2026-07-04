@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Front-End+Developer+in+Progress;React+%2B+JavaScript+Enthusiast;Always+Shipping+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer+in+Progress;React+%2B+JavaScript+Enthusiast;Always+Shipping+Something+New" />
 </p>
 
 <!-- ============ SOCIAL LINKS ============ -->
@@ -20,16 +20,15 @@
 ### ⚡ About
 
 ```yaml
-name: Rahul
-focus: front-end development
-currently_building: React + JS projects
-learning: deepening React & exploring backend
+Name: Rahul
+Focus: front-end development (fn.)
+Currently_building: React + JS projects
 ```
 
 ### 🧰 Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,tailwindcss,git&theme=dark" />
 </p>
 
 <br/>
