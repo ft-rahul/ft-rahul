@@ -1,11 +1,13 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Hey,%20I'm%20Rahul&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=An%20aspiring%20Full-Stack%20Web%20Developer&descSize=17&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I%27m%20Rahul&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=An%20aspiring%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=62" />
 </p>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer+in+Progress;React+%2B+JavaScript+Enthusiast;Always+Shipping+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+My+Skills+as+a+Full-Stack+Web+Developer
+;React+%2B+Learning+the+Craft+of+Web+Development
+;Always+Shipping+Something+New" />
 </p>
 
 <!-- ============ SOCIAL LINKS ============ -->
@@ -21,7 +23,7 @@
 
 ```yaml
 Name: Rahul
-Focus: front-end development (fn.)
+Focus: Front-End Development (fn.)
 Currently_building: React + JS projects
 ```
 
