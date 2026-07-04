@@ -5,9 +5,7 @@
 
 <!-- ============ TYPING TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+My+Skills+as+a+Full-Stack+Web+Developer
-;React+%2B+Learning+the+Craft+of+Web+Development
-;Always+Shipping+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Learning+Full-Stack+Development;Turning+Ideas+Into+Code;Where+Design+Meets+Logic />
 </p>
 
 <!-- ============ SOCIAL LINKS ============ -->
