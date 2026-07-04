@@ -44,7 +44,7 @@ learning: deepening React & exploring backend
 
 <!-- ============ GITHUB STATS ============ -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ft-rahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ft-rahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ft-rahul&theme=tokyo-night" width="90%"/>
 </p>
 
