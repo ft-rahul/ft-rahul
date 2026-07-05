@@ -44,7 +44,7 @@ Currently_building: React + JS projects
 <!-- ============ GITHUB STATS ============ -->
 <p align="center">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ft-rahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ft-rahul&theme=tokyo-night" width="90%"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ft-rahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true"/>
 </p>
 
 <br/>
