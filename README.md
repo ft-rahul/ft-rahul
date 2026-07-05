@@ -35,10 +35,9 @@ Currently_building: React + JS projects
 
 ### 📌 Featured Projects
 
+- **[Nostra-Website](https://ft-rahul.github.io/Nostra-Website/)** — a website built with HTML
 - **[mygallery-react](https://ft-rahul.github.io/mygallery-react/)** — image gallery built with React
 - **[Form-Validation](https://ft-rahul.github.io/Form-Validation/)** — client-side form validation in JavaScript
-- **[Nostra-Website](https://ft-rahul.github.io/Nostra-Website/)** — a website built with HTML
-
 <br/>
 
 <!-- ============ GITHUB STATS ============ -->
