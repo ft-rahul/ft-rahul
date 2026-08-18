@@ -37,7 +37,7 @@ Currently_building: React + JS projects
 
 - **[Nostra-Website](https://ft-rahul.github.io/Nostra-Website/)** — a website built with HTML
 - **[mygallery-react](https://ft-rahul.github.io/mygallery-react/)** — image gallery built with React
-- **[Form-Validation](https://ft-rahul.github.io/Form-Validation/)** — client-side form validation in JavaScript
+- **[Auth-TodoList](https://ft-rahul.github.io/auth-todolist)** — Task Management Web App
 <br/>
 
 <!-- ============ GITHUB STATS ============ -->
